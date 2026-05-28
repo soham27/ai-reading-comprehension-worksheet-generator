@@ -63,7 +63,7 @@ python main.py    # terminal CLI
 build.bat
 ```
 
-Produces `dist/WorksheetAgent.exe` — move it next to a `Worksheets/` folder and double-click. No Python required at runtime.
+Produces `dist/WorksheetAgent.exe` — move it next to a `Worksheets/` folder and double-click. No Python required at runtime. Need an API key from OpenAI to use the agent.
 
 ## Project structure
 
